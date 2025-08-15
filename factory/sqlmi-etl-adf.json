@@ -1,0 +1,9 @@
+{
+	"name": "sqlmi-etl-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d0b0a7d-7615-4348-a0b6-bb10722c10b0",
+		"tenantId": "93f45c30-2a7e-4b95-875e-6ade736f50b3"
+	}
+}
